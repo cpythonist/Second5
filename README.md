@@ -4,13 +4,6 @@ Second is a family of command-line interpreters developed by Infinite, with the 
 <br>
 Second 5 can used after installing the pre-built binaries provided (## TODO: Provide the installer) or by [building it from source yourself](https://github.com/cpythonist/Second5/edit/main/README.md#building).<br>
 <br>
-<p align="center">
-  <img width="100" height="100" src="https://github.com/cpythonist/assets/blob/main/second5/second5.ico">
-</p>
-<p align="center">
-  <img src="https://github.com/cpythonist/assets/blob/main/second5/second5help.png">
-</p>
-<br>
 Documentation of the interpreter can be found at [the Second 5 Docs](http://cpythonist.github.io/second/documentation/secondDoc5.0.html).<br>
 To contact the developer (me), please see [my contact page](http://cpythonist.github.io/contact.html).
 ## Building
