@@ -1,0 +1,3 @@
+ll=ls -l
+murder=kill explorer.exe -f
+resurrect=start explorer.exe
